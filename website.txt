@@ -1,0 +1,341 @@
+&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en-US&quot; prefix=&quot;og: http://ogp.me/ns#&quot;&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;UTF-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+&lt;link rel=&quot;profile&quot; href=&quot;http://gmpg.org/xfn/11&quot;&gt;
+&lt;link rel=&quot;pingback&quot; href=&quot;http://nextdronetech.com/xmlrpc.php&quot;&gt;
+&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: &quot;ca-pub-2519879928312455&quot;,
+    enable_page_level_ads: true
+  });
+&lt;/script&gt;
+&lt;title&gt;What are Drones - UAV, UAS, Quadcopter Definition&lt;/title&gt;
+
+&lt;!-- This site is optimized with the Yoast SEO plugin v4.6 - https://yoast.com/wordpress/plugins/seo/ --&gt;
+&lt;link rel=&quot;canonical&quot; href=&quot;http://nextdronetech.com/what-are-drones/&quot; /&gt;
+&lt;meta property=&quot;og:locale&quot; content=&quot;en_US&quot; /&gt;
+&lt;meta property=&quot;og:type&quot; content=&quot;article&quot; /&gt;
+&lt;meta property=&quot;og:title&quot; content=&quot;What are Drones - UAV, UAS, Quadcopter Definition&quot; /&gt;
+&lt;meta property=&quot;og:description&quot; content=&quot;Drones are of many kinds with distinct names &amp;#8211; UAV, UAS are few examples. Actually, the Drone is an unmanned aircraft which is controlled by a remote or an onboard computer. What are drones? Above paragraphs defines you the answer. The definition of UAV is &amp;hellip;&quot; /&gt;
+&lt;meta property=&quot;og:url&quot; content=&quot;http://nextdronetech.com/what-are-drones/&quot; /&gt;
+&lt;meta property=&quot;og:site_name&quot; content=&quot;Next Drone Tech&quot; /&gt;
+&lt;meta property=&quot;article:publisher&quot; content=&quot;https://www.facebook.com/Next-Drone-Tech-120921961735526/&quot; /&gt;
+&lt;meta property=&quot;article:tag&quot; content=&quot;Aerial Photography&quot; /&gt;
+&lt;meta property=&quot;article:tag&quot; content=&quot;Hexacopter&quot; /&gt;
+&lt;meta property=&quot;article:tag&quot; content=&quot;Military&quot; /&gt;
+&lt;meta property=&quot;article:tag&quot; content=&quot;Multicopter&quot; /&gt;
+&lt;meta property=&quot;article:tag&quot; content=&quot;Octacopter&quot; /&gt;
+&lt;meta property=&quot;article:tag&quot; content=&quot;Quadcopter&quot; /&gt;
+&lt;meta property=&quot;article:tag&quot; content=&quot;RPAS&quot; /&gt;
+&lt;meta property=&quot;article:tag&quot; content=&quot;sUAS&quot; /&gt;
+&lt;meta property=&quot;article:tag&quot; content=&quot;UAS&quot; /&gt;
+&lt;meta property=&quot;article:tag&quot; content=&quot;UAV&quot; /&gt;
+&lt;meta property=&quot;article:section&quot; content=&quot;UAS&quot; /&gt;
+&lt;meta property=&quot;article:published_time&quot; content=&quot;2017-04-25T20:52:23+00:00&quot; /&gt;
+&lt;meta property=&quot;article:modified_time&quot; content=&quot;2017-09-25T23:25:31+00:00&quot; /&gt;
+&lt;meta property=&quot;og:updated_time&quot; content=&quot;2017-09-25T23:25:31+00:00&quot; /&gt;
+&lt;meta property=&quot;og:image&quot; content=&quot;http://nextdronetech.com/wp-content/uploads/2017/04/drone-for-kids.jpg&quot; /&gt;
+&lt;meta property=&quot;og:image:width&quot; content=&quot;700&quot; /&gt;
+&lt;meta property=&quot;og:image:height&quot; content=&quot;467&quot; /&gt;
+&lt;meta name=&quot;twitter:card&quot; content=&quot;summary&quot; /&gt;
+&lt;meta name=&quot;twitter:description&quot; content=&quot;Drones are of many kinds with distinct names &amp;#8211; UAV, UAS are few examples. Actually, the Drone is an unmanned aircraft which is controlled by a remote or an onboard computer. What are drones? Above paragraphs defines you the answer. The definition of UAV is [&amp;hellip;]&quot; /&gt;
+&lt;meta name=&quot;twitter:title&quot; content=&quot;What are Drones - UAV, UAS, Quadcopter Definition&quot; /&gt;
+&lt;meta name=&quot;twitter:site&quot; content=&quot;@nextdronetech&quot; /&gt;
+&lt;meta name=&quot;twitter:image&quot; content=&quot;http://nextdronetech.com/wp-content/uploads/2017/04/drone-for-kids.jpg&quot; /&gt;
+&lt;meta name=&quot;twitter:creator&quot; content=&quot;@nextdronetech&quot; /&gt;
+&lt;!-- / Yoast SEO plugin. --&gt;
+
+&lt;link rel='dns-prefetch' href='//s0.wp.com' /&gt;
+&lt;link rel='dns-prefetch' href='//s.gravatar.com' /&gt;
+&lt;link rel='dns-prefetch' href='//fonts.googleapis.com' /&gt;
+&lt;link rel='dns-prefetch' href='//s.w.org' /&gt;
+&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; title=&quot;Next Drone Tech &amp;raquo; Feed&quot; href=&quot;http://nextdronetech.com/feed/&quot; /&gt;
+&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; title=&quot;Next Drone Tech &amp;raquo; Comments Feed&quot; href=&quot;http://nextdronetech.com/comments/feed/&quot; /&gt;
+&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; title=&quot;Next Drone Tech &amp;raquo; What are Drones &amp;#8211; UAV, UAS, Quadcopter Definition Comments Feed&quot; href=&quot;http://nextdronetech.com/what-are-drones/feed/&quot; /&gt;
+		&lt;script type=&quot;text/javascript&quot;&gt;
+			window._wpemojiSettings = {&quot;baseUrl&quot;:&quot;https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/&quot;,&quot;ext&quot;:&quot;.png&quot;,&quot;svgUrl&quot;:&quot;https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/&quot;,&quot;svgExt&quot;:&quot;.svg&quot;,&quot;source&quot;:{&quot;concatemoji&quot;:&quot;http:\/\/nextdronetech.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.9&quot;}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline=&quot;top&quot;,k.font=&quot;600 32px Arial&quot;,a){case&quot;flag&quot;:return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length&lt;3e3)&amp;&amp;(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case&quot;emoji4&quot;:return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement(&quot;script&quot;);c.src=a,c.defer=c.type=&quot;text/javascript&quot;,b.getElementsByTagName(&quot;head&quot;)[0].appendChild(c)}var f,g,h,i,j=b.createElement(&quot;canvas&quot;),k=j.getContext&amp;&amp;j.getContext(&quot;2d&quot;);for(i=Array(&quot;flag&quot;,&quot;emoji4&quot;),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h&lt;i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&amp;&amp;c.supports[i[h]],&quot;flag&quot;!==i[h]&amp;&amp;(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&amp;&amp;c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&amp;&amp;!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener(&quot;DOMContentLoaded&quot;,g,!1),a.addEventListener(&quot;load&quot;,g,!1)):(a.attachEvent(&quot;onload&quot;,g),b.attachEvent(&quot;onreadystatechange&quot;,function(){&quot;complete&quot;===b.readyState&amp;&amp;c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&amp;&amp;f.twemoji&amp;&amp;(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		&lt;/script&gt;
+		&lt;style type=&quot;text/css&quot;&gt;
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+&lt;/style&gt;
+&lt;link rel='stylesheet' id='bootstrap-css'  href='http://nextdronetech.com/wp-content/themes/astrid/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='buy-me-a-coffee-css'  href='http://nextdronetech.com/wp-content/plugins/buymeacoffee/public/css/buy-me-a-coffee-public.css?ver=1.1.0' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='astrid-style-css'  href='http://nextdronetech.com/wp-content/themes/astrid/style.css?ver=4.7.9' type='text/css' media='all' /&gt;
+&lt;style id='astrid-style-inline-css' type='text/css'&gt;
+.site-header {position: fixed;}
+.woocommerce .woocommerce-message:before,.woocommerce #payment #place_order,.woocommerce-page #payment #place_order,.woocommerce .cart .button, .woocommerce .cart input.button,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,.woocommerce #review_form #respond .form-submit input,.woocommerce a.button,.woocommerce div.product form.cart .button,.woocommerce .star-rating,.page-header .page-title .fa,.site-footer a:hover,.footer-info a:hover,.footer-widgets a:hover,.testimonial-title a:hover,.employee-title a:hover,.fact .fa,.service-title a:hover,.widget-area .widget a:hover,.entry-meta a:hover,.entry-footer a:hover,.entry-title a:hover,.comment-navigation a:hover,.posts-navigation a:hover,.post-navigation a:hover,.main-navigation a:hover,.main-navigation li.focus &gt; a,a,a:hover,button,.button,input[type=&quot;button&quot;],input[type=&quot;reset&quot;],input[type=&quot;submit&quot;] { color:#00bbff}
+.social-menu-widget a,.woocommerce span.onsale,.woocommerce #payment #place_order:hover, .woocommerce-page #payment #place_order:hover,.woocommerce .cart .button:hover, .woocommerce .cart input.button:hover,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,.woocommerce #review_form #respond .form-submit input:hover,.woocommerce div.product form.cart .button:hover,.woocommerce a.button:hover,.preloader-inner ul li,.progress-animate,button:hover,.button:hover,input[type=&quot;button&quot;]:hover,input[type=&quot;reset&quot;]:hover,input[type=&quot;submit&quot;]:hover { background-color:#00bbff}
+.woocommerce .woocommerce-message,.woocommerce #payment #place_order,.woocommerce-page #payment #place_order,.woocommerce .cart .button, .woocommerce .cart input.button,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,.woocommerce #review_form #respond .form-submit input,.woocommerce a.button,.woocommerce div.product form.cart .button,.main-navigation li a::after,.main-navigation li a::before,button,.button,input[type=&quot;button&quot;],input[type=&quot;reset&quot;],input[type=&quot;submit&quot;] { border-color:#00bbff}
+.site-title a,.site-title a:hover { color:#ffffff}
+.site-description { color:#BDBDBD}
+.site-header,.site-header.header-scrolled { background-color:rgba(32,37,41,0.9)}
+@media only screen and (max-width: 1024px) { .site-header.has-header,.site-header.has-video,.site-header.has-single,.site-header.has-shortcode { background-color:rgba(32,37,41,0.9)} }
+body, .widget-area .widget, .widget-area .widget a { color:#656D6D}
+.footer-widgets, .site-footer, .footer-info { background-color:#202529}
+body {font-family: 'Lora';}
+h1, h2, h3, h4, h5, h6, .fact .fact-number, .fact .fact-name, .site-title {font-family: 'Josefin Sans', sans-serif;}
+.site-title { font-size:36px; }
+.site-description { font-size:14px; }
+h1 { font-size:36px; }
+h2 { font-size:30px; }
+h3 { font-size:24px; }
+h4 { font-size:16px; }
+h5 { font-size:16px; }
+h6 { font-size:12px; }
+body { font-size:16px; }
+
+&lt;/style&gt;
+&lt;link rel='stylesheet' id='astrid-body-fonts-css'  href='//fonts.googleapis.com/css?family=Lora%3A400%2C700%2C400italic%2C700italic&amp;#038;ver=4.7.9#038;subset=latin' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='astrid-headings-fonts-css'  href='//fonts.googleapis.com/css?family=Josefin+Sans%3A300italic%2C300&amp;#038;ver=4.7.9' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='font-awesome-css'  href='http://nextdronetech.com/wp-content/themes/astrid/fonts/font-awesome.min.css?ver=4.7.9' type='text/css' media='all' /&gt;
+&lt;link rel='stylesheet' id='jetpack_css-css'  href='http://nextdronetech.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.8.2' type='text/css' media='all' /&gt;
+&lt;script type='text/javascript' src='http://nextdronetech.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='http://nextdronetech.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='http://nextdronetech.com/wp-content/plugins/buymeacoffee/public/js/buy-me-a-coffee-public.js?ver=1.1.0'&gt;&lt;/script&gt;
+&lt;link rel='https://api.w.org/' href='http://nextdronetech.com/wp-json/' /&gt;
+&lt;link rel=&quot;EditURI&quot; type=&quot;application/rsd+xml&quot; title=&quot;RSD&quot; href=&quot;http://nextdronetech.com/xmlrpc.php?rsd&quot; /&gt;
+&lt;link rel=&quot;wlwmanifest&quot; type=&quot;application/wlwmanifest+xml&quot; href=&quot;http://nextdronetech.com/wp-includes/wlwmanifest.xml&quot; /&gt; 
+&lt;meta name=&quot;generator&quot; content=&quot;WordPress 4.7.9&quot; /&gt;
+&lt;link rel='shortlink' href='http://wp.me/p8Fb7V-m' /&gt;
+&lt;link rel=&quot;alternate&quot; type=&quot;application/json+oembed&quot; href=&quot;http://nextdronetech.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnextdronetech.com%2Fwhat-are-drones%2F&quot; /&gt;
+&lt;link rel=&quot;alternate&quot; type=&quot;text/xml+oembed&quot; href=&quot;http://nextdronetech.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnextdronetech.com%2Fwhat-are-drones%2F&amp;#038;format=xml&quot; /&gt;
+
+&lt;link rel='dns-prefetch' href='//v0.wordpress.com'&gt;
+&lt;style type='text/css'&gt;img#wpstats{display:none}&lt;/style&gt;&lt;/head&gt;
+
+&lt;body class=&quot;post-template-default single single-post postid-22 single-format-standard wp-custom-logo group-blog&quot;&gt;
+
+&lt;div class=&quot;preloader&quot;&gt;
+&lt;div class=&quot;preloader-inner&quot;&gt;
+	&lt;ul&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;page&quot; class=&quot;site&quot;&gt;
+	&lt;a class=&quot;skip-link screen-reader-text&quot; href=&quot;#content&quot;&gt;Skip to content&lt;/a&gt;
+
+	&lt;header id=&quot;masthead&quot; class=&quot;site-header &quot; role=&quot;banner&quot;&gt;
+		&lt;div class=&quot;container&quot;&gt;
+			&lt;div class=&quot;site-branding col-md-4 col-sm-6 col-xs-12&quot;&gt;
+				&lt;a href=&quot;http://nextdronetech.com/&quot; class=&quot;custom-logo-link&quot; rel=&quot;home&quot; itemprop=&quot;url&quot;&gt;&lt;img width=&quot;200&quot; height=&quot;80&quot; src=&quot;http://nextdronetech.com/wp-content/uploads/2017/04/cropped-logo_2.png&quot; class=&quot;custom-logo&quot; alt=&quot;&quot; itemprop=&quot;logo&quot; srcset=&quot;http://nextdronetech.com/wp-content/uploads/2017/04/cropped-logo_2.png 200w, http://nextdronetech.com/wp-content/uploads/2017/04/cropped-logo_2-100x40.png 100w&quot; sizes=&quot;(max-width: 200px) 100vw, 200px&quot; /&gt;&lt;/a&gt;			&lt;/div&gt;
+			&lt;div class=&quot;btn-menu col-md-8 col-sm-6 col-xs-12&quot;&gt;&lt;i class=&quot;fa fa-navicon&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+			&lt;nav id=&quot;mainnav&quot; class=&quot;main-navigation col-md-8 col-sm-6 col-xs-12&quot; role=&quot;navigation&quot;&gt;
+				&lt;div id=&quot;primary-menu&quot; class=&quot;menu&quot;&gt;&lt;ul&gt;
+&lt;li class=&quot;page_item page-item-14&quot;&gt;&lt;a href=&quot;http://nextdronetech.com/about/&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+			&lt;/nav&gt;&lt;!-- #site-navigation --&gt;
+		&lt;/div&gt;
+	&lt;/header&gt;&lt;!-- #masthead --&gt;
+
+			&lt;div class=&quot;header-clone&quot;&gt;&lt;/div&gt;
+		
+
+				
+	
+	&lt;div id=&quot;content&quot; class=&quot;site-content&quot;&gt;
+		&lt;div class=&quot;container&quot;&gt;
+	&lt;div id=&quot;primary&quot; class=&quot;content-area&quot;&gt;
+		&lt;main id=&quot;main&quot; class=&quot;site-main&quot; role=&quot;main&quot;&gt;
+
+		
+&lt;article id=&quot;post-22&quot; class=&quot;post-22 post type-post status-publish format-standard has-post-thumbnail hentry category-uas tag-aerial-photography tag-hexacopter tag-military tag-multicopter tag-octacopter tag-quadcopter tag-rpas tag-suas tag-uas tag-uav clearfix&quot;&gt;
+
+
+	&lt;header class=&quot;entry-header&quot;&gt;
+		&lt;h1 class=&quot;entry-title&quot;&gt;What are Drones &amp;#8211; UAV, UAS, Quadcopter Definition&lt;/h1&gt;	&lt;/header&gt;&lt;!-- .entry-header --&gt;	
+
+						
+		&lt;div class=&quot;entry-content&quot;&gt;
+		&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-10&quot; src=&quot;http://nextdronetech.com/wp-content/uploads/2017/04/drones.jpg&quot; alt=&quot;drones&quot; width=&quot;1920&quot; height=&quot;1080&quot; srcset=&quot;http://nextdronetech.com/wp-content/uploads/2017/04/drones.jpg 1920w, http://nextdronetech.com/wp-content/uploads/2017/04/drones-300x169.jpg 300w, http://nextdronetech.com/wp-content/uploads/2017/04/drones-768x432.jpg 768w, http://nextdronetech.com/wp-content/uploads/2017/04/drones-1024x576.jpg 1024w, http://nextdronetech.com/wp-content/uploads/2017/04/drones-700x394.jpg 700w, http://nextdronetech.com/wp-content/uploads/2017/04/drones-520x293.jpg 520w, http://nextdronetech.com/wp-content/uploads/2017/04/drones-360x203.jpg 360w, http://nextdronetech.com/wp-content/uploads/2017/04/drones-250x141.jpg 250w, http://nextdronetech.com/wp-content/uploads/2017/04/drones-100x56.jpg 100w&quot; sizes=&quot;(max-width: 1920px) 100vw, 1920px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Drones are of many kinds with distinct names &amp;#8211; &lt;strong&gt;UAV, UAS&lt;/strong&gt; are few examples. Actually, the &lt;strong&gt;Drone is an unmanned aircraft which is controlled by a remote or an onboard computer&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;What are drones? Above paragraphs defines you the answer.&lt;/p&gt;
+&lt;p&gt;The definition of UAV is an unmanned aerial vehicle and UAS is unmanned aerial systems &amp;#8211; &lt;em&gt;where you can find same features of drones with distinct terms&lt;/em&gt;. Model aircraft and non-model aircraft are the two classifications of the drones.&lt;/p&gt;
+&lt;h2&gt;Model Aircraft&lt;/h2&gt;
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-28&quot; src=&quot;http://nextdronetech.com/wp-content/uploads/2017/04/drone-for-kids.jpg&quot; alt=&quot;drone for kids&quot; width=&quot;700&quot; height=&quot;467&quot; srcset=&quot;http://nextdronetech.com/wp-content/uploads/2017/04/drone-for-kids.jpg 700w, http://nextdronetech.com/wp-content/uploads/2017/04/drone-for-kids-300x200.jpg 300w, http://nextdronetech.com/wp-content/uploads/2017/04/drone-for-kids-520x347.jpg 520w, http://nextdronetech.com/wp-content/uploads/2017/04/drone-for-kids-360x240.jpg 360w, http://nextdronetech.com/wp-content/uploads/2017/04/drone-for-kids-250x167.jpg 250w, http://nextdronetech.com/wp-content/uploads/2017/04/drone-for-kids-100x67.jpg 100w&quot; sizes=&quot;(max-width: 700px) 100vw, 700px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;If you&amp;#8217;d like to take a test with drones, this is the right choice. &lt;strong&gt;Why? A perfect hobby partner&lt;/strong&gt;. Like the name says, Model aircrafts ain&amp;#8217;t capable of handling non-hobby purpose, it is illegal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Find the cheapest drones of today &amp;#8211; &lt;a href=&quot;http://nextdronetech.com/top-5-camera-drones-under-100-dollars/&quot;&gt;Top 5 Camera Drones under 100 Dollars – List of 2017&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Multicopter&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Model aircraft which uses &lt;em&gt;multiple rotors&lt;/em&gt; are Multicopters. Concerning drones, an onboard computer is furthermore taken in controlling Multicopter.&lt;/p&gt;
+&lt;p&gt;So, want to know how it comes to be a UAV/drone? When the &lt;strong&gt;Multicopter is capable of autonomous flights, it becomes drones&lt;/strong&gt;. GPS data and barometer connects with the accelerometer and gyro information to form an autonomous flight.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Quadcopter&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Quadrotor helicopter (Quadcopter) are four rotors helicopters.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Hexacopter&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;When &lt;em&gt;six rotors&lt;/em&gt; are used in Model aircraft they are Hexacopter.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Octacopter&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Eight rotors&lt;/em&gt; are used.&lt;/p&gt;
+&lt;h2&gt;Non-model Aircraft&lt;/h2&gt;
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-27&quot; src=&quot;http://nextdronetech.com/wp-content/uploads/2017/04/armed-drone.jpg&quot; alt=&quot;Armed Drone&quot; width=&quot;891&quot; height=&quot;591&quot; srcset=&quot;http://nextdronetech.com/wp-content/uploads/2017/04/armed-drone.jpg 891w, http://nextdronetech.com/wp-content/uploads/2017/04/armed-drone-300x199.jpg 300w, http://nextdronetech.com/wp-content/uploads/2017/04/armed-drone-768x509.jpg 768w, http://nextdronetech.com/wp-content/uploads/2017/04/armed-drone-700x464.jpg 700w, http://nextdronetech.com/wp-content/uploads/2017/04/armed-drone-520x345.jpg 520w, http://nextdronetech.com/wp-content/uploads/2017/04/armed-drone-360x239.jpg 360w, http://nextdronetech.com/wp-content/uploads/2017/04/armed-drone-250x166.jpg 250w, http://nextdronetech.com/wp-content/uploads/2017/04/armed-drone-100x66.jpg 100w&quot; sizes=&quot;(max-width: 891px) 100vw, 891px&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As I&amp;#8217;ve figured above in model aircraft that the &lt;strong&gt;non-model aircraft are used for professional and military works&lt;/strong&gt;. For using the non-model aircraft, you need the registration and certification from FAA.&lt;/p&gt;
+&lt;p&gt;Terms for non-model aircraft are of the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;RPAS –&lt;/strong&gt; Remotely Piloted Aerial System&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;sUAS –&lt;/strong&gt; Small Unmanned Aircraft System&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UAS –&lt;/strong&gt; Unmanned Aircraft System&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UAV –&lt;/strong&gt; Unmanned Aerial Vehicle&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Application &amp;amp; Uses of Drone&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Aerial Photography &amp;amp; Videography&lt;/li&gt;
+&lt;li&gt;Law Enforcement&lt;/li&gt;
+&lt;li&gt;Mapping&lt;/li&gt;
+&lt;li&gt;Recreational&lt;/li&gt;
+&lt;li&gt;Research&lt;/li&gt;
+&lt;li&gt;Medical&lt;/li&gt;
+&lt;li&gt;Emergency Response&lt;/li&gt;
+&lt;li&gt;Search and Rescue&lt;/li&gt;
+&lt;li&gt;Surveying&lt;/li&gt;
+&lt;li&gt;Inspection&lt;/li&gt;
+&lt;li&gt;Military&lt;/li&gt;
+&lt;li&gt;Real Estate&lt;/li&gt;
+&lt;li&gt;Commercial&lt;/li&gt;
+&lt;li&gt;Construction&lt;/li&gt;
+&lt;li&gt;Delivery&lt;/li&gt;
+&lt;li&gt;Drone Racing&lt;/li&gt;
+&lt;li&gt;Scientific&lt;/li&gt;
+&lt;/ul&gt;
+	&lt;/div&gt;
+	
+			
+	&lt;/article&gt;&lt;!-- #post-## --&gt;
+
+	&lt;nav class=&quot;navigation post-navigation&quot; role=&quot;navigation&quot;&gt;
+		&lt;h2 class=&quot;screen-reader-text&quot;&gt;Post navigation&lt;/h2&gt;
+		&lt;div class=&quot;nav-links&quot;&gt;&lt;div class=&quot;nav-next&quot;&gt;&lt;a href=&quot;http://nextdronetech.com/top-10-uses-of-drones/&quot; rel=&quot;next&quot;&gt;Top 10 Innovative uses of Drones&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+	&lt;/nav&gt;
+&lt;div id=&quot;comments&quot; class=&quot;comments-area&quot;&gt;
+
+		&lt;div id=&quot;respond&quot; class=&quot;comment-respond&quot;&gt;
+		&lt;h3 id=&quot;reply-title&quot; class=&quot;comment-reply-title&quot;&gt;Leave a Reply &lt;small&gt;&lt;a rel=&quot;nofollow&quot; id=&quot;cancel-comment-reply-link&quot; href=&quot;/what-are-drones/#respond&quot; style=&quot;display:none;&quot;&gt;Cancel reply&lt;/a&gt;&lt;/small&gt;&lt;/h3&gt;			&lt;form action=&quot;http://nextdronetech.com/wp-comments-post.php&quot; method=&quot;post&quot; id=&quot;commentform&quot; class=&quot;comment-form&quot; novalidate&gt;
+				&lt;p class=&quot;comment-notes&quot;&gt;&lt;span id=&quot;email-notes&quot;&gt;Your email address will not be published.&lt;/span&gt; Required fields are marked &lt;span class=&quot;required&quot;&gt;*&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;comment-form-comment&quot;&gt;&lt;label for=&quot;comment&quot;&gt;Comment&lt;/label&gt; &lt;textarea id=&quot;comment&quot; name=&quot;comment&quot; cols=&quot;45&quot; rows=&quot;8&quot; maxlength=&quot;65525&quot; aria-required=&quot;true&quot; required=&quot;required&quot;&gt;&lt;/textarea&gt;&lt;/p&gt;&lt;p class=&quot;comment-form-author&quot;&gt;&lt;label for=&quot;author&quot;&gt;Name &lt;span class=&quot;required&quot;&gt;*&lt;/span&gt;&lt;/label&gt; &lt;input id=&quot;author&quot; name=&quot;author&quot; type=&quot;text&quot; value=&quot;&quot; size=&quot;30&quot; maxlength=&quot;245&quot; aria-required='true' required='required' /&gt;&lt;/p&gt;
+&lt;p class=&quot;comment-form-email&quot;&gt;&lt;label for=&quot;email&quot;&gt;Email &lt;span class=&quot;required&quot;&gt;*&lt;/span&gt;&lt;/label&gt; &lt;input id=&quot;email&quot; name=&quot;email&quot; type=&quot;email&quot; value=&quot;&quot; size=&quot;30&quot; maxlength=&quot;100&quot; aria-describedby=&quot;email-notes&quot; aria-required='true' required='required' /&gt;&lt;/p&gt;
+&lt;p class=&quot;comment-form-url&quot;&gt;&lt;label for=&quot;url&quot;&gt;Website&lt;/label&gt; &lt;input id=&quot;url&quot; name=&quot;url&quot; type=&quot;url&quot; value=&quot;&quot; size=&quot;30&quot; maxlength=&quot;200&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;form-submit&quot;&gt;&lt;input name=&quot;submit&quot; type=&quot;submit&quot; id=&quot;submit&quot; class=&quot;submit&quot; value=&quot;Post Comment&quot; /&gt; &lt;input type='hidden' name='comment_post_ID' value='22' id='comment_post_ID' /&gt;
+&lt;input type='hidden' name='comment_parent' id='comment_parent' value='0' /&gt;
+&lt;/p&gt;&lt;p style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; id=&quot;akismet_comment_nonce&quot; name=&quot;akismet_comment_nonce&quot; value=&quot;e6e58c478e&quot; /&gt;&lt;/p&gt;&lt;p class=&quot;comment-subscription-form&quot;&gt;&lt;input type=&quot;checkbox&quot; name=&quot;subscribe_comments&quot; id=&quot;subscribe_comments&quot; value=&quot;subscribe&quot; style=&quot;width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;&quot; /&gt; &lt;label class=&quot;subscribe-label&quot; id=&quot;subscribe-label&quot; for=&quot;subscribe_comments&quot;&gt;Notify me of follow-up comments by email.&lt;/label&gt;&lt;/p&gt;&lt;p class=&quot;comment-subscription-form&quot;&gt;&lt;input type=&quot;checkbox&quot; name=&quot;subscribe_blog&quot; id=&quot;subscribe_blog&quot; value=&quot;subscribe&quot; style=&quot;width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;&quot; /&gt; &lt;label class=&quot;subscribe-label&quot; id=&quot;subscribe-blog-label&quot; for=&quot;subscribe_blog&quot;&gt;Notify me of new posts by email.&lt;/label&gt;&lt;/p&gt;&lt;p style=&quot;display: none;&quot;&gt;&lt;input type=&quot;hidden&quot; id=&quot;ak_js&quot; name=&quot;ak_js&quot; value=&quot;9&quot;/&gt;&lt;/p&gt;			&lt;/form&gt;
+			&lt;/div&gt;&lt;!-- #respond --&gt;
+	
+&lt;/div&gt;&lt;!-- #comments --&gt;
+
+		&lt;/main&gt;&lt;!-- #main --&gt;
+	&lt;/div&gt;&lt;!-- #primary --&gt;
+
+
+&lt;aside id=&quot;secondary&quot; class=&quot;widget-area&quot; role=&quot;complementary&quot;&gt;
+	&lt;aside id=&quot;search-2&quot; class=&quot;widget widget_search&quot;&gt;&lt;form role=&quot;search&quot; method=&quot;get&quot; class=&quot;search-form&quot; action=&quot;http://nextdronetech.com/&quot;&gt;
+				&lt;label&gt;
+					&lt;span class=&quot;screen-reader-text&quot;&gt;Search for:&lt;/span&gt;
+					&lt;input type=&quot;search&quot; class=&quot;search-field&quot; placeholder=&quot;Search &amp;hellip;&quot; value=&quot;&quot; name=&quot;s&quot; /&gt;
+				&lt;/label&gt;
+				&lt;input type=&quot;submit&quot; class=&quot;search-submit&quot; value=&quot;Search&quot; /&gt;
+			&lt;/form&gt;&lt;/aside&gt;		&lt;aside id=&quot;recent-posts-2&quot; class=&quot;widget widget_recent_entries&quot;&gt;		&lt;h4 class=&quot;widget-title&quot;&gt;Featured Articles&lt;/h4&gt;		&lt;ul&gt;
+					&lt;li&gt;
+				&lt;a href=&quot;http://nextdronetech.com/udi-818a-review/&quot;&gt;UDI 818A Quadcopter Review &amp;#8211; Best drone under 100 Dollars&lt;/a&gt;
+						&lt;/li&gt;
+					&lt;li&gt;
+				&lt;a href=&quot;http://nextdronetech.com/cheapest-kid-friendly-drones/&quot;&gt;Cheapest Kid Friendly Drones &amp;#8211; Syma X9 Flying Car RC Quadcopter&lt;/a&gt;
+						&lt;/li&gt;
+					&lt;li&gt;
+				&lt;a href=&quot;http://nextdronetech.com/best-drones-200-dollars/&quot;&gt;Best Drones under 200 Dollars of 2017&lt;/a&gt;
+						&lt;/li&gt;
+					&lt;li&gt;
+				&lt;a href=&quot;http://nextdronetech.com/top-5-camera-drones-under-100-dollars/&quot;&gt;Top 5 Camera Drones under 100 Dollars &amp;#8211; List of 2017&lt;/a&gt;
+						&lt;/li&gt;
+					&lt;li&gt;
+				&lt;a href=&quot;http://nextdronetech.com/best-beginner-quadcopters/&quot;&gt;Top 5 Best Beginner Quadcopters&lt;/a&gt;
+						&lt;/li&gt;
+					&lt;li&gt;
+				&lt;a href=&quot;http://nextdronetech.com/tips-to-start-drone-photography-business/&quot;&gt;Tips to start a Drone Photography Business for Beginners&lt;/a&gt;
+						&lt;/li&gt;
+					&lt;li&gt;
+				&lt;a href=&quot;http://nextdronetech.com/cheapest-quadcopter/&quot;&gt;Eachine H8 Mini &amp;#8211; The Cheapest Quadcopter 2017&lt;/a&gt;
+						&lt;/li&gt;
+					&lt;li&gt;
+				&lt;a href=&quot;http://nextdronetech.com/drone-repair/&quot;&gt;Drone Repair &amp;#8211; What next after your drone crashed?&lt;/a&gt;
+						&lt;/li&gt;
+					&lt;li&gt;
+				&lt;a href=&quot;http://nextdronetech.com/cheerson-cx20-review/&quot;&gt;Cheerson CX20 Quadcopter Full Review&lt;/a&gt;
+						&lt;/li&gt;
+					&lt;li&gt;
+				&lt;a href=&quot;http://nextdronetech.com/dji-phantom-4-advanced-review/&quot;&gt;DJI Phantom 4 Advanced Review &amp;#8211; A Better Camera Drone&lt;/a&gt;
+						&lt;/li&gt;
+				&lt;/ul&gt;
+		&lt;/aside&gt;		&lt;aside id=&quot;buymeacoffee_widget-2&quot; class=&quot;widget buymeacoffee_widget&quot;&gt;&lt;h4 class=&quot;widget-title&quot;&gt;&lt;/h4&gt;    &lt;style&gt;.bmc-button img{box-shadow:none !important;vertical-align: middle !important;}.bmc-button{display:inline-block !important;padding:5px 10px !important;color:#000000 !important;background-color:#FFFFFF !important;border-radius: 3px !important;border: 1px solid transparent !important;
+    font-size: 26px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;-webkit-transition: 0.3s all linear !important;transition: 0.3s all linear !important;margin: 0 auto !important;
+    font-family:&quot;Cookie&quot;, cursive !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0 4px 16px 0 rgba(190, 190, 190,.45) !important;box-shadow: 0 4px 16px 0 rgba(190, 190, 190,.45) !important;opacity: 0.85 !important;
+      color:#000000 !important;}
+    &lt;/style&gt;
+
+    &lt;link href=&quot;https://fonts.googleapis.com/css?family=Cookie&quot; rel=&quot;stylesheet&quot;&gt;
+    &lt;p style=&quot;text-align:center !important&quot;&gt;&lt;a target=&quot;_blank&quot; class=&quot;bmc-button&quot; href=&quot;https://www.buymeacoffee.com/Akarsh&quot;&gt;
+      &lt;img src=&quot;https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg&quot; alt=&quot;BMC logo&quot;&gt;&lt;span style=&quot;margin-left:5px&quot;&gt;Buy me a coffee&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/aside&gt;&lt;aside id=&quot;text-2&quot; class=&quot;widget widget_text&quot;&gt;			&lt;div class=&quot;textwidget&quot;&gt;&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: &quot;ca-pub-2519879928312455&quot;,
+    enable_page_level_ads: true
+  });
+&lt;/script&gt;&lt;/div&gt;
+		&lt;/aside&gt;&lt;/aside&gt;&lt;!-- #secondary --&gt;
+
+		&lt;/div&gt;
+	&lt;/div&gt;&lt;!-- #content --&gt;
+
+	&lt;div class=&quot;footer-wrapper&quot;&gt;
+				
+				
+		&lt;footer id=&quot;colophon&quot; class=&quot;site-footer&quot; role=&quot;contentinfo&quot;&gt;	
+			&lt;div class=&quot;site-info container&quot;&gt;
+				&lt;nav id=&quot;footernav&quot; class=&quot;footer-navigation&quot; role=&quot;navigation&quot; style=&quot;font-family:Josefin Sans;&quot;&gt;
+					&lt;p style=&quot;font-family:Josefin Sans;&quot;&gt;&lt;a href=&quot;http://nextdronetech.com/sitemap.xml&quot;&gt;Sitemap&lt;/a&gt;&lt;/p&gt;
+				&lt;/nav&gt;&lt;!-- #site-navigation --&gt;
+				&lt;div class=&quot;site-copyright&quot;&gt;
+					&lt;p style=&quot;font-family:Josefin Sans;&quot;&gt;Copyright &amp;#169; 2018 Next Drone Tech&lt;/p&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;&lt;!-- .site-info --&gt;
+		&lt;/footer&gt;&lt;!-- #colophon --&gt;
+	&lt;/div&gt;
+
+&lt;/div&gt;&lt;!-- #page --&gt;
+
+	&lt;div style=&quot;display:none&quot;&gt;
+	&lt;/div&gt;
+&lt;script type='text/javascript' src='http://nextdronetech.com/wp-content/plugins/akismet/_inc/form.js?ver=3.3'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201810'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2018Maraa'&gt;&lt;/script&gt;
+&lt;script type='text/javascript'&gt;
+/* &lt;![CDATA[ */
+var WPGroHo = {&quot;my_hash&quot;:&quot;&quot;};
+/* ]]&gt; */
+&lt;/script&gt;
+&lt;script type='text/javascript' src='http://nextdronetech.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.7.9'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='http://nextdronetech.com/wp-content/themes/astrid/js/main.js?ver=4.7.9'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='http://nextdronetech.com/wp-content/themes/astrid/js/scripts.min.js?ver=4.7.9'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='http://nextdronetech.com/wp-includes/js/comment-reply.min.js?ver=4.7.9'&gt;&lt;/script&gt;
+&lt;!--[if lt IE 9]&gt;
+&lt;script type='text/javascript' src='http://nextdronetech.com/wp-content/themes/astrid/js/html5shiv.js?ver=4.7.9'&gt;&lt;/script&gt;
+&lt;![endif]--&gt;
+&lt;script type='text/javascript' src='http://nextdronetech.com/wp-includes/js/wp-embed.min.js?ver=4.7.9'&gt;&lt;/script&gt;
+&lt;script type='text/javascript' src='https://stats.wp.com/e-201810.js' async defer&gt;&lt;/script&gt;
+&lt;script type='text/javascript'&gt;
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.8.2',blog:'128024911',post:'22',tz:'5.5',srv:'nextdronetech.com'} ]);
+	_stq.push([ 'clickTrackerInit', '128024911', '22' ]);
+&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;

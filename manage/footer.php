@@ -1,0 +1,1 @@
+<p class="footercaption">Copyright &copy; 2018 Onpageanalytics.com</p>

@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://nextdronetech.com/xmlrpc.php">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2519879928312455",
+    enable_page_level_ads: true
+  });
+</script>
+<title>Next Drone Tech | Drone technology, future uav, quadcopters hack and new tips</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Drone technology, future uav, quadcopters hack and new tips"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://nextdronetech.com/" />
+<link rel="next" href="http://nextdronetech.com/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Next Drone Tech | Drone technology, future uav, quadcopters hack and new tips" />
+<meta property="og:description" content="Drone technology, future uav, quadcopters hack and new tips" />
+<meta property="og:url" content="http://nextdronetech.com/" />
+<meta property="og:site_name" content="Next Drone Tech" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Drone technology, future uav, quadcopters hack and new tips" />
+<meta name="twitter:title" content="Next Drone Tech | Drone technology, future uav, quadcopters hack and new tips" />
+<meta name="twitter:site" content="@nextdronetech" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/nextdronetech.com\/","name":"Next Drone Tech","potentialAction":{"@type":"SearchAction","target":"http:\/\/nextdronetech.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/nextdronetech.com\/","sameAs":["https:\/\/www.facebook.com\/Next-Drone-Tech-120921961735526\/","https:\/\/twitter.com\/nextdronetech"],"@id":"#organization","name":"Internet Curiosity","logo":""}</script>
+<meta name="google-site-verification" content="GhqNQsoBFVsuwKZA6d0-GOB1GtAdcIKdYT2BmahGKUg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Next Drone Tech &raquo; Feed" href="http://nextdronetech.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Next Drone Tech &raquo; Comments Feed" href="http://nextdronetech.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/nextdronetech.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.9"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bootstrap-css'  href='http://nextdronetech.com/wp-content/themes/astrid/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='buy-me-a-coffee-css'  href='http://nextdronetech.com/wp-content/plugins/buymeacoffee/public/css/buy-me-a-coffee-public.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='astrid-style-css'  href='http://nextdronetech.com/wp-content/themes/astrid/style.css?ver=4.7.9' type='text/css' media='all' />
+<style id='astrid-style-inline-css' type='text/css'>
+.site-header {position: fixed;}
+.woocommerce .woocommerce-message:before,.woocommerce #payment #place_order,.woocommerce-page #payment #place_order,.woocommerce .cart .button, .woocommerce .cart input.button,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,.woocommerce #review_form #respond .form-submit input,.woocommerce a.button,.woocommerce div.product form.cart .button,.woocommerce .star-rating,.page-header .page-title .fa,.site-footer a:hover,.footer-info a:hover,.footer-widgets a:hover,.testimonial-title a:hover,.employee-title a:hover,.fact .fa,.service-title a:hover,.widget-area .widget a:hover,.entry-meta a:hover,.entry-footer a:hover,.entry-title a:hover,.comment-navigation a:hover,.posts-navigation a:hover,.post-navigation a:hover,.main-navigation a:hover,.main-navigation li.focus > a,a,a:hover,button,.button,input[type="button"],input[type="reset"],input[type="submit"] { color:#00bbff}
+.social-menu-widget a,.woocommerce span.onsale,.woocommerce #payment #place_order:hover, .woocommerce-page #payment #place_order:hover,.woocommerce .cart .button:hover, .woocommerce .cart input.button:hover,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,.woocommerce #review_form #respond .form-submit input:hover,.woocommerce div.product form.cart .button:hover,.woocommerce a.button:hover,.preloader-inner ul li,.progress-animate,button:hover,.button:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover { background-color:#00bbff}
+.woocommerce .woocommerce-message,.woocommerce #payment #place_order,.woocommerce-page #payment #place_order,.woocommerce .cart .button, .woocommerce .cart input.button,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,.woocommerce #review_form #respond .form-submit input,.woocommerce a.button,.woocommerce div.product form.cart .button,.main-navigation li a::after,.main-navigation li a::before,button,.button,input[type="button"],input[type="reset"],input[type="submit"] { border-color:#00bbff}
+.site-title a,.site-title a:hover { color:#ffffff}
+.site-description { color:#BDBDBD}
+.site-header,.site-header.header-scrolled { background-color:rgba(32,37,41,0.9)}
+@media only screen and (max-width: 1024px) { .site-header.has-header,.site-header.has-video,.site-header.has-single,.site-header.has-shortcode { background-color:rgba(32,37,41,0.9)} }
+body, .widget-area .widget, .widget-area .widget a { color:#656D6D}
+.footer-widgets, .site-footer, .footer-info { background-color:#202529}
+body {font-family: 'Lora';}
+h1, h2, h3, h4, h5, h6, .fact .fact-number, .fact .fact-name, .site-title {font-family: 'Josefin Sans', sans-serif;}
+.site-title { font-size:36px; }
+.site-description { font-size:14px; }
+h1 { font-size:36px; }
+h2 { font-size:30px; }
+h3 { font-size:24px; }
+h4 { font-size:16px; }
+h5 { font-size:16px; }
+h6 { font-size:12px; }
+body { font-size:16px; }
+
+</style>
+<link rel='stylesheet' id='astrid-body-fonts-css'  href='//fonts.googleapis.com/css?family=Lora%3A400%2C700%2C400italic%2C700italic&#038;ver=4.7.9#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='astrid-headings-fonts-css'  href='//fonts.googleapis.com/css?family=Josefin+Sans%3A300italic%2C300&#038;ver=4.7.9' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://nextdronetech.com/wp-content/themes/astrid/fonts/font-awesome.min.css?ver=4.7.9' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://nextdronetech.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.8.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://nextdronetech.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://nextdronetech.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://nextdronetech.com/wp-content/plugins/buymeacoffee/public/js/buy-me-a-coffee-public.js?ver=1.1.0'></script>
+<link rel='https://api.w.org/' href='http://nextdronetech.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://nextdronetech.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://nextdronetech.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.9" />
+<link rel='shortlink' href='http://wp.me/8Fb7V' />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<style type='text/css'>img#wpstats{display:none}</style></head>
+
+<body class="home blog wp-custom-logo group-blog hfeed">
+
+<div class="preloader">
+<div class="preloader-inner">
+	<ul><li></li><li></li><li></li><li></li><li></li><li></li></ul>
+</div>
+</div>
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header has-header" role="banner">
+		<div class="container">
+			<div class="site-branding col-md-4 col-sm-6 col-xs-12">
+				<a href="http://nextdronetech.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="200" height="80" src="http://nextdronetech.com/wp-content/uploads/2017/04/cropped-logo_2.png" class="custom-logo" alt="" itemprop="logo" srcset="http://nextdronetech.com/wp-content/uploads/2017/04/cropped-logo_2.png 200w, http://nextdronetech.com/wp-content/uploads/2017/04/cropped-logo_2-100x40.png 100w" sizes="(max-width: 200px) 100vw, 200px" /></a>			</div>
+			<div class="btn-menu col-md-8 col-sm-6 col-xs-12"><i class="fa fa-navicon"></i></div>
+			<nav id="mainnav" class="main-navigation col-md-8 col-sm-6 col-xs-12" role="navigation">
+				<div id="primary-menu" class="menu"><ul>
+<li class="page_item page-item-14"><a href="http://nextdronetech.com/about/">About</a></li>
+</ul></div>
+			</nav><!-- #site-navigation -->
+		</div>
+	</header><!-- #masthead -->
+
+			<div class="header-image">
+		<div class="header-info">
+			<div class="container">
+				<h4 class="header-subtext">Welcome to Next Drone Tech</h4>
+				<h3 class="header-text">Get newsletter daily</h3><a class="button header-button" href="https://feedburner.google.com/fb/a/mailverify?uri=NextDroneTech&#038;loc=en_US">Sign Up for free</a></div></div>		<img class="large-header" src="http://nextdronetech.com/wp-content/uploads/2017/04/cropped-drones.jpg" width="1920" alt="Next Drone Tech">
+		
+								<img class="small-header" src="http://nextdronetech.com/wp-content/themes/astrid/images/header-mobile.jpg" width="1920" alt="Next Drone Tech">
+			</div>
+		
+
+				
+	
+	<div id="content" class="site-content">
+		<div class="container">
+
+	<div id="primary" class="content-area list">
+		<main id="main" class="site-main" role="main">
+
+		
+			<div class="posts-layout">
+									
+<article id="post-157" class="post-157 post type-post status-publish format-standard has-post-thumbnail hentry category-quadcopter category-review tag-drone-under-100-dollars tag-udi-818a-drone tag-udi-818a-drone-review tag-udi-818a-quadcopter tag-udi-818a-quadcopter-review clearfix">
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://nextdronetech.com/udi-818a-review/" rel="bookmark">UDI 818A Quadcopter Review &#8211; Best drone under 100 Dollars</a></h2>	</header><!-- .entry-header -->	
+
+					<div class="entry-thumb">
+			<a href="http://nextdronetech.com/udi-818a-review/" title="UDI 818A Quadcopter Review &#8211; Best drone under 100 Dollars"><img width="520" height="293" src="http://nextdronetech.com/wp-content/uploads/2017/05/UDI-818A-Quadcopter-520x293.jpg" class="attachment-astrid-medium-thumb size-astrid-medium-thumb wp-post-image" alt="UDI 818A Quadcopter" srcset="http://nextdronetech.com/wp-content/uploads/2017/05/UDI-818A-Quadcopter-520x293.jpg 520w, http://nextdronetech.com/wp-content/uploads/2017/05/UDI-818A-Quadcopter-300x169.jpg 300w, http://nextdronetech.com/wp-content/uploads/2017/05/UDI-818A-Quadcopter-768x432.jpg 768w, http://nextdronetech.com/wp-content/uploads/2017/05/UDI-818A-Quadcopter-1024x576.jpg 1024w, http://nextdronetech.com/wp-content/uploads/2017/05/UDI-818A-Quadcopter-700x394.jpg 700w, http://nextdronetech.com/wp-content/uploads/2017/05/UDI-818A-Quadcopter-360x203.jpg 360w, http://nextdronetech.com/wp-content/uploads/2017/05/UDI-818A-Quadcopter-250x141.jpg 250w, http://nextdronetech.com/wp-content/uploads/2017/05/UDI-818A-Quadcopter-100x56.jpg 100w, http://nextdronetech.com/wp-content/uploads/2017/05/UDI-818A-Quadcopter.jpg 1280w" sizes="(max-width: 520px) 100vw, 520px" /></a>
+		</div>
+			
+		<div class="entry-summary">
+		<p>UDI 818A Quadcopter is the best drone I have flown which comes with an affordable rate. Yes, and that&#8217;s the reason why we made this as the best quadcopter under 100 dollars in our list. Don&#8217;t believe our words, just take a [&hellip;]</p>
+	</div>
+	<div class="read-more clearfix">
+		<a class="button post-button" href="http://nextdronetech.com/udi-818a-review/" title="UDI 818A Quadcopter Review &#8211; Best drone under 100 Dollars">Read more</a>
+	</div>
+	
+			
+	</article><!-- #post-## -->
+									
+<article id="post-142" class="post-142 post type-post status-publish format-standard has-post-thumbnail hentry category-quadcopter tag-cheap-drones tag-cheap-drones-for-kids tag-drones tag-drones-for-kids clearfix">
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://nextdronetech.com/cheapest-kid-friendly-drones/" rel="bookmark">Cheapest Kid Friendly Drones &#8211; Syma X9 Flying Car RC Quadcopter</a></h2>	</header><!-- .entry-header -->	
+
+					<div class="entry-thumb">
+			<a href="http://nextdronetech.com/cheapest-kid-friendly-drones/" title="Cheapest Kid Friendly Drones &#8211; Syma X9 Flying Car RC Quadcopter"><img width="520" height="293" src="http://nextdronetech.com/wp-content/uploads/2017/05/Syma-X9-Flying-Car-RC-Quadcopter-1-520x293.jpg" class="attachment-astrid-medium-thumb size-astrid-medium-thumb wp-post-image" alt="" srcset="http://nextdronetech.com/wp-content/uploads/2017/05/Syma-X9-Flying-Car-RC-Quadcopter-1-520x293.jpg 520w, http://nextdronetech.com/wp-content/uploads/2017/05/Syma-X9-Flying-Car-RC-Quadcopter-1-300x169.jpg 300w, http://nextdronetech.com/wp-content/uploads/2017/05/Syma-X9-Flying-Car-RC-Quadcopter-1-768x432.jpg 768w, http://nextdronetech.com/wp-content/uploads/2017/05/Syma-X9-Flying-Car-RC-Quadcopter-1-1024x576.jpg 1024w, http://nextdronetech.com/wp-content/uploads/2017/05/Syma-X9-Flying-Car-RC-Quadcopter-1-700x394.jpg 700w, http://nextdronetech.com/wp-content/uploads/2017/05/Syma-X9-Flying-Car-RC-Quadcopter-1-360x203.jpg 360w, http://nextdronetech.com/wp-content/uploads/2017/05/Syma-X9-Flying-Car-RC-Quadcopter-1-250x141.jpg 250w, http://nextdronetech.com/wp-content/uploads/2017/05/Syma-X9-Flying-Car-RC-Quadcopter-1-100x56.jpg 100w, http://nextdronetech.com/wp-content/uploads/2017/05/Syma-X9-Flying-Car-RC-Quadcopter-1.jpg 1280w" sizes="(max-width: 520px) 100vw, 520px" /></a>
+		</div>
+			
+		<div class="entry-summary">
+		<p>An unmanned aerial vehicle commonly known as a Drone, it is an aircraft without a human pilot on board. Drones are one of the best gadgets know in this advanced world of technology. Drone can also be called as a flying [&hellip;]</p>
+	</div>
+	<div class="read-more clearfix">
+		<a class="button post-button" href="http://nextdronetech.com/cheapest-kid-friendly-drones/" title="Cheapest Kid Friendly Drones &#8211; Syma X9 Flying Car RC Quadcopter">Read more</a>
+	</div>
+	
+			
+	</article><!-- #post-## -->
+									
+<article id="post-136" class="post-136 post type-post status-publish format-standard has-post-thumbnail hentry category-quadcopter tag-best-drones-of-2017 tag-best-drones-under-200 tag-drones-under-200-dollars tag-u45-blue-jay-fpv-quadcopter tag-udi-818a-hd-rc-drone clearfix">
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://nextdronetech.com/best-drones-200-dollars/" rel="bookmark">Best Drones under 200 Dollars of 2017</a></h2>	</header><!-- .entry-header -->	
+
+					<div class="entry-thumb">
+			<a href="http://nextdronetech.com/best-drones-200-dollars/" title="Best Drones under 200 Dollars of 2017"><img width="520" height="325" src="http://nextdronetech.com/wp-content/uploads/2017/05/Best-Drones-under-200-Dollars-520x325.jpg" class="attachment-astrid-medium-thumb size-astrid-medium-thumb wp-post-image" alt="Best Drones under 200 Dollars" srcset="http://nextdronetech.com/wp-content/uploads/2017/05/Best-Drones-under-200-Dollars-520x325.jpg 520w, http://nextdronetech.com/wp-content/uploads/2017/05/Best-Drones-under-200-Dollars-300x188.jpg 300w, http://nextdronetech.com/wp-content/uploads/2017/05/Best-Drones-under-200-Dollars-768x480.jpg 768w, http://nextdronetech.com/wp-content/uploads/2017/05/Best-Drones-under-200-Dollars-1024x640.jpg 1024w, http://nextdronetech.com/wp-content/uploads/2017/05/Best-Drones-under-200-Dollars-700x438.jpg 700w, http://nextdronetech.com/wp-content/uploads/2017/05/Best-Drones-under-200-Dollars-360x225.jpg 360w, http://nextdronetech.com/wp-content/uploads/2017/05/Best-Drones-under-200-Dollars-250x156.jpg 250w, http://nextdronetech.com/wp-content/uploads/2017/05/Best-Drones-under-200-Dollars-100x63.jpg 100w" sizes="(max-width: 520px) 100vw, 520px" /></a>
+		</div>
+			
+		<div class="entry-summary">
+		<p>In this article we are listing down our list of best drones under 200 dollars. This is going to be really interesting. Stick up with us! Drones are mainly used for aerial photography, mapping, real estate, military purposes etc. In the [&hellip;]</p>
+	</div>
+	<div class="read-more clearfix">
+		<a class="button post-button" href="http://nextdronetech.com/best-drones-200-dollars/" title="Best Drones under 200 Dollars of 2017">Read more</a>
+	</div>
+	
+			
+	</article><!-- #post-## -->
+									
+<article id="post-130" class="post-130 post type-post status-publish format-standard has-post-thumbnail hentry category-quadcopter tag-best-camera-drones-2017 tag-camera-drones tag-camera-drones-under-100-dollars tag-top-5-camera-drones clearfix">
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://nextdronetech.com/top-5-camera-drones-under-100-dollars/" rel="bookmark">Top 5 Camera Drones under 100 Dollars &#8211; List of 2017</a></h2>	</header><!-- .entry-header -->	
+
+					<div class="entry-thumb">
+			<a href="http://nextdronetech.com/top-5-camera-drones-under-100-dollars/" title="Top 5 Camera Drones under 100 Dollars &#8211; List of 2017"><img width="520" height="292" src="http://nextdronetech.com/wp-content/uploads/2017/05/Camera-Drones-under-100-Dollars-520x292.jpg" class="attachment-astrid-medium-thumb size-astrid-medium-thumb wp-post-image" alt="Camera Drones under 100 Dollars" srcset="http://nextdronetech.com/wp-content/uploads/2017/05/Camera-Drones-under-100-Dollars-520x292.jpg 520w, http://nextdronetech.com/wp-content/uploads/2017/05/Camera-Drones-under-100-Dollars-300x169.jpg 300w, http://nextdronetech.com/wp-content/uploads/2017/05/Camera-Drones-under-100-Dollars-768x432.jpg 768w, http://nextdronetech.com/wp-content/uploads/2017/05/Camera-Drones-under-100-Dollars-1024x576.jpg 1024w, http://nextdronetech.com/wp-content/uploads/2017/05/Camera-Drones-under-100-Dollars-700x394.jpg 700w, http://nextdronetech.com/wp-content/uploads/2017/05/Camera-Drones-under-100-Dollars-360x202.jpg 360w, http://nextdronetech.com/wp-content/uploads/2017/05/Camera-Drones-under-100-Dollars-250x141.jpg 250w, http://nextdronetech.com/wp-content/uploads/2017/05/Camera-Drones-under-100-Dollars-100x56.jpg 100w, http://nextdronetech.com/wp-content/uploads/2017/05/Camera-Drones-under-100-Dollars.jpg 1366w" sizes="(max-width: 520px) 100vw, 520px" /></a>
+		</div>
+			
+		<div class="entry-summary">
+		<p>Drones have become the new trend now-a-days. In this article, we list the best 5 camera drones under 100 dollars. As I told in the recent articles, drones means fun and entertainment. It&#8217;s now the best technology to enjoy leisure time. [&hellip;]</p>
+	</div>
+	<div class="read-more clearfix">
+		<a class="button post-button" href="http://nextdronetech.com/top-5-camera-drones-under-100-dollars/" title="Top 5 Camera Drones under 100 Dollars &#8211; List of 2017">Read more</a>
+	</div>
+	
+			
+	</article><!-- #post-## -->
+									
+<article id="post-120" class="post-120 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-quadcopter tag-beginner-quadcopters tag-best-beginner-quadcopters tag-cheerson-cx10 tag-eachine-h8-mini tag-mjx-x600-hexacopter tag-syma-x5c-quadcopter tag-top-5-beginner-quadcopters clearfix">
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://nextdronetech.com/best-beginner-quadcopters/" rel="bookmark">Top 5 Best Beginner Quadcopters</a></h2>	</header><!-- .entry-header -->	
+
+					<div class="entry-thumb">
+			<a href="http://nextdronetech.com/best-beginner-quadcopters/" title="Top 5 Best Beginner Quadcopters"><img width="520" height="293" src="http://nextdronetech.com/wp-content/uploads/2017/05/Best-Beginner-Quadcopters-520x293.jpg" class="attachment-astrid-medium-thumb size-astrid-medium-thumb wp-post-image" alt="Best Beginner Quadcopters" srcset="http://nextdronetech.com/wp-content/uploads/2017/05/Best-Beginner-Quadcopters-520x293.jpg 520w, http://nextdronetech.com/wp-content/uploads/2017/05/Best-Beginner-Quadcopters-300x169.jpg 300w, http://nextdronetech.com/wp-content/uploads/2017/05/Best-Beginner-Quadcopters-768x432.jpg 768w, http://nextdronetech.com/wp-content/uploads/2017/05/Best-Beginner-Quadcopters-1024x576.jpg 1024w, http://nextdronetech.com/wp-content/uploads/2017/05/Best-Beginner-Quadcopters-700x394.jpg 700w, http://nextdronetech.com/wp-content/uploads/2017/05/Best-Beginner-Quadcopters-360x203.jpg 360w, http://nextdronetech.com/wp-content/uploads/2017/05/Best-Beginner-Quadcopters-250x141.jpg 250w, http://nextdronetech.com/wp-content/uploads/2017/05/Best-Beginner-Quadcopters-100x56.jpg 100w" sizes="(max-width: 520px) 100vw, 520px" /></a>
+		</div>
+			
+		<div class="entry-summary">
+		<p>Beginner quadcopters makes a lot of sales in the market these days. A cheap quadcopter is the best way to step into this field. Someone who is new with drones purchase cheap quadcopters, they would be the best quadcopter to have an experience. A drone [&hellip;]</p>
+	</div>
+	<div class="read-more clearfix">
+		<a class="button post-button" href="http://nextdronetech.com/best-beginner-quadcopters/" title="Top 5 Best Beginner Quadcopters">Read more</a>
+	</div>
+	
+			
+	</article><!-- #post-## -->
+									
+<article id="post-109" class="post-109 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-quadcopter tag-business-ideas-for-beginners tag-drone-photography tag-drone-photography-business tag-drone-photography-business-for-beginners tag-tips-to-start-a-drone-photography clearfix">
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://nextdronetech.com/tips-to-start-drone-photography-business/" rel="bookmark">Tips to start a Drone Photography Business for Beginners</a></h2>	</header><!-- .entry-header -->	
+
+					<div class="entry-thumb">
+			<a href="http://nextdronetech.com/tips-to-start-drone-photography-business/" title="Tips to start a Drone Photography Business for Beginners"><img width="520" height="319" src="http://nextdronetech.com/wp-content/uploads/2017/05/Drone-Photography-Business-520x319.jpg" class="attachment-astrid-medium-thumb size-astrid-medium-thumb wp-post-image" alt="Drone Photography Business" srcset="http://nextdronetech.com/wp-content/uploads/2017/05/Drone-Photography-Business-520x319.jpg 520w, http://nextdronetech.com/wp-content/uploads/2017/05/Drone-Photography-Business-300x184.jpg 300w, http://nextdronetech.com/wp-content/uploads/2017/05/Drone-Photography-Business-768x470.jpg 768w, http://nextdronetech.com/wp-content/uploads/2017/05/Drone-Photography-Business-1024x627.jpg 1024w, http://nextdronetech.com/wp-content/uploads/2017/05/Drone-Photography-Business-700x429.jpg 700w, http://nextdronetech.com/wp-content/uploads/2017/05/Drone-Photography-Business-360x221.jpg 360w, http://nextdronetech.com/wp-content/uploads/2017/05/Drone-Photography-Business-250x153.jpg 250w, http://nextdronetech.com/wp-content/uploads/2017/05/Drone-Photography-Business-100x61.jpg 100w, http://nextdronetech.com/wp-content/uploads/2017/05/Drone-Photography-Business.jpg 1600w" sizes="(max-width: 520px) 100vw, 520px" /></a>
+		</div>
+			
+		<div class="entry-summary">
+		<p>Before you know about the drone photography business, you should definitely own a drone. If you&#8217;re new its better you starting with a less expensive drone. By this you can get the experience in flying drones, controlling them and so [&hellip;]</p>
+	</div>
+	<div class="read-more clearfix">
+		<a class="button post-button" href="http://nextdronetech.com/tips-to-start-drone-photography-business/" title="Tips to start a Drone Photography Business for Beginners">Read more</a>
+	</div>
+	
+			
+	</article><!-- #post-## -->
+									
+<article id="post-98" class="post-98 post type-post status-publish format-standard has-post-thumbnail hentry category-quadcopter category-review tag-cheapest-quadcopter tag-eachine-h8-mini tag-eachine-h8-mini-rc-quadcopter tag-features-of-eachine-h8-mini tag-worlds-cheapest-quadcopter clearfix">
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://nextdronetech.com/cheapest-quadcopter/" rel="bookmark">Eachine H8 Mini &#8211; The Cheapest Quadcopter 2017</a></h2>	</header><!-- .entry-header -->	
+
+					<div class="entry-thumb">
+			<a href="http://nextdronetech.com/cheapest-quadcopter/" title="Eachine H8 Mini &#8211; The Cheapest Quadcopter 2017"><img width="520" height="293" src="http://nextdronetech.com/wp-content/uploads/2017/05/Eachine-H8-Mini-520x293.jpg" class="attachment-astrid-medium-thumb size-astrid-medium-thumb wp-post-image" alt="Eachine H8 Mini - World’s Cheapest Quadcopter" srcset="http://nextdronetech.com/wp-content/uploads/2017/05/Eachine-H8-Mini-520x293.jpg 520w, http://nextdronetech.com/wp-content/uploads/2017/05/Eachine-H8-Mini-300x169.jpg 300w, http://nextdronetech.com/wp-content/uploads/2017/05/Eachine-H8-Mini-768x432.jpg 768w, http://nextdronetech.com/wp-content/uploads/2017/05/Eachine-H8-Mini-1024x576.jpg 1024w, http://nextdronetech.com/wp-content/uploads/2017/05/Eachine-H8-Mini-700x394.jpg 700w, http://nextdronetech.com/wp-content/uploads/2017/05/Eachine-H8-Mini-360x203.jpg 360w, http://nextdronetech.com/wp-content/uploads/2017/05/Eachine-H8-Mini-250x141.jpg 250w, http://nextdronetech.com/wp-content/uploads/2017/05/Eachine-H8-Mini-100x56.jpg 100w" sizes="(max-width: 520px) 100vw, 520px" /></a>
+		</div>
+			
+		<div class="entry-summary">
+		<p>Eachine H8 Mini is definitely a fun quadcopter which can be said as the cheapest quadcopter. It would be a great personal quadcopter. How can such a cheap quadcopter be so much of fun? We&#8217;ll find it out in the end [&hellip;]</p>
+	</div>
+	<div class="read-more clearfix">
+		<a class="button post-button" href="http://nextdronetech.com/cheapest-quadcopter/" title="Eachine H8 Mini &#8211; The Cheapest Quadcopter 2017">Read more</a>
+	</div>
+	
+			
+	</article><!-- #post-## -->
+									
+<article id="post-90" class="post-90 post type-post status-publish format-standard has-post-thumbnail hentry category-quadcopter tag-drone-crashed tag-drone-manufacture tag-drone-repair tag-local-repair-center clearfix">
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://nextdronetech.com/drone-repair/" rel="bookmark">Drone Repair &#8211; What next after your drone crashed?</a></h2>	</header><!-- .entry-header -->	
+
+					<div class="entry-thumb">
+			<a href="http://nextdronetech.com/drone-repair/" title="Drone Repair &#8211; What next after your drone crashed?"><img width="520" height="322" src="http://nextdronetech.com/wp-content/uploads/2017/04/drone-crashed-520x322.jpg" class="attachment-astrid-medium-thumb size-astrid-medium-thumb wp-post-image" alt="Drone Crashed" srcset="http://nextdronetech.com/wp-content/uploads/2017/04/drone-crashed-520x322.jpg 520w, http://nextdronetech.com/wp-content/uploads/2017/04/drone-crashed-300x186.jpg 300w, http://nextdronetech.com/wp-content/uploads/2017/04/drone-crashed-768x476.jpg 768w, http://nextdronetech.com/wp-content/uploads/2017/04/drone-crashed-1024x634.jpg 1024w, http://nextdronetech.com/wp-content/uploads/2017/04/drone-crashed-700x433.jpg 700w, http://nextdronetech.com/wp-content/uploads/2017/04/drone-crashed-360x223.jpg 360w, http://nextdronetech.com/wp-content/uploads/2017/04/drone-crashed-500x310.jpg 500w, http://nextdronetech.com/wp-content/uploads/2017/04/drone-crashed-250x155.jpg 250w, http://nextdronetech.com/wp-content/uploads/2017/04/drone-crashed-100x62.jpg 100w, http://nextdronetech.com/wp-content/uploads/2017/04/drone-crashed.jpg 1048w" sizes="(max-width: 520px) 100vw, 520px" /></a>
+		</div>
+			
+		<div class="entry-summary">
+		<p>We&#8217;re going to show you how to repair your drone (drone repair) when crashed. The crashing may occur for both the beginners and professionals &#8211; it ain&#8217;t a big deal; what next is important. You may also like: Top 10 Innovative [&hellip;]</p>
+	</div>
+	<div class="read-more clearfix">
+		<a class="button post-button" href="http://nextdronetech.com/drone-repair/" title="Drone Repair &#8211; What next after your drone crashed?">Read more</a>
+	</div>
+	
+			
+	</article><!-- #post-## -->
+									
+<article id="post-77" class="post-77 post type-post status-publish format-standard has-post-thumbnail hentry category-quadcopter category-review tag-cheerson-cx20-quadcopter tag-cheerson-cx20-review tag-features-of-cheerson-cx20 clearfix">
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://nextdronetech.com/cheerson-cx20-review/" rel="bookmark">Cheerson CX20 Quadcopter Full Review</a></h2>	</header><!-- .entry-header -->	
+
+					<div class="entry-thumb">
+			<a href="http://nextdronetech.com/cheerson-cx20-review/" title="Cheerson CX20 Quadcopter Full Review"><img width="520" height="293" src="http://nextdronetech.com/wp-content/uploads/2017/04/Cheerson-CX20-Review-520x293.jpg" class="attachment-astrid-medium-thumb size-astrid-medium-thumb wp-post-image" alt="" srcset="http://nextdronetech.com/wp-content/uploads/2017/04/Cheerson-CX20-Review-520x293.jpg 520w, http://nextdronetech.com/wp-content/uploads/2017/04/Cheerson-CX20-Review-300x169.jpg 300w, http://nextdronetech.com/wp-content/uploads/2017/04/Cheerson-CX20-Review-768x432.jpg 768w, http://nextdronetech.com/wp-content/uploads/2017/04/Cheerson-CX20-Review-1024x576.jpg 1024w, http://nextdronetech.com/wp-content/uploads/2017/04/Cheerson-CX20-Review-700x394.jpg 700w, http://nextdronetech.com/wp-content/uploads/2017/04/Cheerson-CX20-Review-360x203.jpg 360w, http://nextdronetech.com/wp-content/uploads/2017/04/Cheerson-CX20-Review-250x141.jpg 250w, http://nextdronetech.com/wp-content/uploads/2017/04/Cheerson-CX20-Review-100x56.jpg 100w" sizes="(max-width: 520px) 100vw, 520px" /></a>
+		</div>
+			
+		<div class="entry-summary">
+		<p>&nbsp; &nbsp; Drones are the current market trend these days. Before you check on Cheerson CX20 Quadcopter, it is better to know the best innovative uses of a drone. Drones are currently seen in different industries. Cheerson CX20 is one of the best drone [&hellip;]</p>
+	</div>
+	<div class="read-more clearfix">
+		<a class="button post-button" href="http://nextdronetech.com/cheerson-cx20-review/" title="Cheerson CX20 Quadcopter Full Review">Read more</a>
+	</div>
+	
+			
+	</article><!-- #post-## -->
+									
+<article id="post-54" class="post-54 post type-post status-publish format-standard has-post-thumbnail hentry category-quadcopter category-review tag-better-camera-drone tag-dji tag-dji-phantom-4 tag-dji-phantom-4-advanced tag-dji-phantom-4-advanced-review clearfix">
+
+
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="http://nextdronetech.com/dji-phantom-4-advanced-review/" rel="bookmark">DJI Phantom 4 Advanced Review &#8211; A Better Camera Drone</a></h2>	</header><!-- .entry-header -->	
+
+					<div class="entry-thumb">
+			<a href="http://nextdronetech.com/dji-phantom-4-advanced-review/" title="DJI Phantom 4 Advanced Review &#8211; A Better Camera Drone"><img width="520" height="347" src="http://nextdronetech.com/wp-content/uploads/2017/04/dji-phantom-4-advanced-520x347.jpg" class="attachment-astrid-medium-thumb size-astrid-medium-thumb wp-post-image" alt="DJI Phantom 4 Advanced" srcset="http://nextdronetech.com/wp-content/uploads/2017/04/dji-phantom-4-advanced-520x347.jpg 520w, http://nextdronetech.com/wp-content/uploads/2017/04/dji-phantom-4-advanced-300x200.jpg 300w, http://nextdronetech.com/wp-content/uploads/2017/04/dji-phantom-4-advanced-768x512.jpg 768w, http://nextdronetech.com/wp-content/uploads/2017/04/dji-phantom-4-advanced-700x467.jpg 700w, http://nextdronetech.com/wp-content/uploads/2017/04/dji-phantom-4-advanced-360x240.jpg 360w, http://nextdronetech.com/wp-content/uploads/2017/04/dji-phantom-4-advanced-250x167.jpg 250w, http://nextdronetech.com/wp-content/uploads/2017/04/dji-phantom-4-advanced-100x67.jpg 100w, http://nextdronetech.com/wp-content/uploads/2017/04/dji-phantom-4-advanced.jpg 988w" sizes="(max-width: 520px) 100vw, 520px" /></a>
+		</div>
+			
+		<div class="entry-summary">
+		<p>  &#8220;A right camera drone with best user-experience&#8221; No one will go for Phantom 4 if you&#8217;re specific in terms of camera quality you capture with the drones. Let&#8217;s take an in-depth look at the Phantom 4 Advanced review. I wasn&#8217;t [&hellip;]</p>
+	</div>
+	<div class="read-more clearfix">
+		<a class="button post-button" href="http://nextdronetech.com/dji-phantom-4-advanced-review/" title="DJI Phantom 4 Advanced Review &#8211; A Better Camera Drone">Read more</a>
+	</div>
+	
+			
+	</article><!-- #post-## -->
+							</div>
+
+			
+	<nav class="navigation posts-navigation" role="navigation">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="http://nextdronetech.com/page/2/" >Older posts</a></div></div>
+	</nav>
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area" role="complementary">
+	<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://nextdronetech.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h4 class="widget-title">Featured Articles</h4>		<ul>
+					<li>
+				<a href="http://nextdronetech.com/udi-818a-review/">UDI 818A Quadcopter Review &#8211; Best drone under 100 Dollars</a>
+						</li>
+					<li>
+				<a href="http://nextdronetech.com/cheapest-kid-friendly-drones/">Cheapest Kid Friendly Drones &#8211; Syma X9 Flying Car RC Quadcopter</a>
+						</li>
+					<li>
+				<a href="http://nextdronetech.com/best-drones-200-dollars/">Best Drones under 200 Dollars of 2017</a>
+						</li>
+					<li>
+				<a href="http://nextdronetech.com/top-5-camera-drones-under-100-dollars/">Top 5 Camera Drones under 100 Dollars &#8211; List of 2017</a>
+						</li>
+					<li>
+				<a href="http://nextdronetech.com/best-beginner-quadcopters/">Top 5 Best Beginner Quadcopters</a>
+						</li>
+					<li>
+				<a href="http://nextdronetech.com/tips-to-start-drone-photography-business/">Tips to start a Drone Photography Business for Beginners</a>
+						</li>
+					<li>
+				<a href="http://nextdronetech.com/cheapest-quadcopter/">Eachine H8 Mini &#8211; The Cheapest Quadcopter 2017</a>
+						</li>
+					<li>
+				<a href="http://nextdronetech.com/drone-repair/">Drone Repair &#8211; What next after your drone crashed?</a>
+						</li>
+					<li>
+				<a href="http://nextdronetech.com/cheerson-cx20-review/">Cheerson CX20 Quadcopter Full Review</a>
+						</li>
+					<li>
+				<a href="http://nextdronetech.com/dji-phantom-4-advanced-review/">DJI Phantom 4 Advanced Review &#8211; A Better Camera Drone</a>
+						</li>
+				</ul>
+		</aside>		<aside id="buymeacoffee_widget-2" class="widget buymeacoffee_widget"><h4 class="widget-title"></h4>    <style>.bmc-button img{box-shadow:none !important;vertical-align: middle !important;}.bmc-button{display:inline-block !important;padding:5px 10px !important;color:#000000 !important;background-color:#FFFFFF !important;border-radius: 3px !important;border: 1px solid transparent !important;
+    font-size: 26px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;-webkit-transition: 0.3s all linear !important;transition: 0.3s all linear !important;margin: 0 auto !important;
+    font-family:"Cookie", cursive !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0 4px 16px 0 rgba(190, 190, 190,.45) !important;box-shadow: 0 4px 16px 0 rgba(190, 190, 190,.45) !important;opacity: 0.85 !important;
+      color:#000000 !important;}
+    </style>
+
+    <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
+    <p style="text-align:center !important"><a target="_blank" class="bmc-button" href="https://www.buymeacoffee.com/Akarsh">
+      <img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="BMC logo"><span style="margin-left:5px">Buy me a coffee</span></a></p>
+    </aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2519879928312455",
+    enable_page_level_ads: true
+  });
+</script></div>
+		</aside></aside><!-- #secondary -->
+
+		</div>
+	</div><!-- #content -->
+
+	<div class="footer-wrapper">
+				
+				
+		<footer id="colophon" class="site-footer" role="contentinfo">	
+			<div class="site-info container">
+				<nav id="footernav" class="footer-navigation" role="navigation" style="font-family:Josefin Sans;">
+					<p style="font-family:Josefin Sans;"><a href="http://nextdronetech.com/sitemap.xml">Sitemap</a></p>
+				</nav><!-- #site-navigation -->
+				<div class="site-copyright">
+					<p style="font-family:Josefin Sans;">Copyright &#169; 2018 Next Drone Tech</p>
+				</div>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div>
+
+</div><!-- #page -->
+
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201810'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2018Maraa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://nextdronetech.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.7.9'></script>
+<script type='text/javascript' src='http://nextdronetech.com/wp-content/themes/astrid/js/main.js?ver=4.7.9'></script>
+<script type='text/javascript' src='http://nextdronetech.com/wp-content/themes/astrid/js/scripts.min.js?ver=4.7.9'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://nextdronetech.com/wp-content/themes/astrid/js/html5shiv.js?ver=4.7.9'></script>
+<![endif]-->
+<script type='text/javascript' src='http://nextdronetech.com/wp-includes/js/wp-embed.min.js?ver=4.7.9'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201810.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.8.2',blog:'128024911',post:'0',tz:'5.5',srv:'nextdronetech.com'} ]);
+	_stq.push([ 'clickTrackerInit', '128024911', '0' ]);
+</script>
+
+</body>
+</html>
